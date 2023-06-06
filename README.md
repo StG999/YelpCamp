@@ -22,7 +22,7 @@ YelpCamp is a full-stack web application that serves as a listing website (like 
 2. **Express.js:** Server-side scripting is done using Express.js, a fast and minimalist web application framework for Node.js.
 3. **MongoDB Atlas:** The cloud database manager used for YelpCamp. It is connected to the application through Mongoose, an Object Data Modeling (ODM) library for MongoDB and Node.js.
 4. **Cloudinary:** Images associated with the campgrounds are saved on the cloud using Cloudinary, a cloud-based image and video management service.
-5. **MapBox:** MapBox is utilized to display the maps, including the cluster map, providing an interactive and visually appealing experience.
+5. **MapBox WebGL JS:** MapBox is utilized to display the maps, including the cluster map, providing an interactive and visually appealing experience.
 6. **Bootstrap:** The web application is styled and made responsive using Bootstrap, a popular front-end framework.
 7. **EJS:** Dynamic HTML views are created using EJS (Embedded JavaScript), a simple templating language that allows embedding JavaScript code within HTML markup.
 8. **Joi:** Joi is used for form validation, ensuring that user-submitted data meets the specified requirements.
