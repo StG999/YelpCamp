@@ -4,7 +4,9 @@ YelpCamp is a full-stack web application that serves as a listing website (like 
 
 **Check it out->** [YelpCamp](https://yelpcamp-76c6.onrender.com/)
 
-**Note:** While the app is fully responsive, please be aware that it may not be optimized for smaller displays such as phones. Some sections, particularly the campground show pages with lengthy descriptions, may appear cramped. For the best experience, it is recommended to view the website on a larger screen or in landscape orientation on a mobile device.
+**Note1:** The server may sometimes sleep due to long periods of inactivity. Please give it time to load (15-20 seconds).
+
+**Note2:** While the app is fully responsive, please be aware that it may not be optimized for smaller displays such as phones. Some sections, particularly the campground show pages with lengthy descriptions, may appear cramped. For the best experience, it is recommended to view the website on a larger screen or in landscape orientation on a mobile device.
 
 ## Features
 
