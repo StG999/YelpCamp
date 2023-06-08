@@ -2,7 +2,7 @@
 
 YelpCamp is a full-stack web application that serves as a listing website (like Yelp.com) specifically designed for campsites. It allows users to browse, create, and review campgrounds, providing a comprehensive platform for camping enthusiasts. This project was developed during my summer vacations as an opportunity to build a complete full-stack project utilizing multiple services.
 
-**Check it out->** [YelpCamp](https://yelpcamp-76c6.onrender.com/)
+**Check it out->** [YelpCamp](https://yelpcamp-76c6.onrender.com/) (Feel free to create an account and experience the full functionality of the website)
 
 **Note1:** The server may sometimes sleep due to long periods of inactivity. Please give it time to load (15-20 seconds).
 
