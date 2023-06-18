@@ -2,8 +2,6 @@ if (!process.env.NODE_ENV !== 'production') {
     require('dotenv').config();
 }
 
-// ATLAS USERNAME: user1        PASSWORD: HYPY3dVSQ8Nf8llU
-
 const express = require('express');
 const path = require('path');
 const mongoose = require('mongoose');
